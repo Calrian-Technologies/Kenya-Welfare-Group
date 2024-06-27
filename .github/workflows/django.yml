@@ -114,10 +114,4 @@ jobs:
         rm -rf pip_cache
       shell: bash
 
-notifications:
-  email:
-    recipients:
-      - calriantechnologies@gmail.com
-    on:
-      failure: always
-      success: change
+
