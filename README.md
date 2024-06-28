@@ -43,7 +43,7 @@ To get started with our project, you'll need:
     ```sh
     cd ../frontend
     npm install
-    npm start
+    npm run dev
 
 ## 🌐 Contributing
 We welcome contributions from everyone. Whether you're a developer, designer, or simply someone who cares, your input can make a huge difference.
